@@ -1,0 +1,2 @@
+動態記憶體紀錄malloc、calloc、realloc、free：https://blog.gtwang.org/programming/c-memory-functions-malloc-free/
+指標紀錄：https://kopu.chat/c語言-超好懂的指標，初學者請進～/
